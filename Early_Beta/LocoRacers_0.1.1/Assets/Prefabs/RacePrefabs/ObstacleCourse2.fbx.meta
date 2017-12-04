@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 2cfb381f88774db4e97dacc1d18bb2f9
+timeCreated: 1506088729
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: polySurface1438
+    100004: polySurface1439
+    100006: polySurface1441
+    100008: polySurface1443
+    100010: polySurface1444
+    100012: polySurface1445
+    100014: polySurface1446
+    100016: polySurface1458
+    100018: polySurface1460
+    100020: polySurface1465
+    100022: polySurface1466
+    100024: polySurface1467
+    100026: polySurface1468
+    100028: polySurface1469
+    100030: transform1659
+    100032: transform1660
+    100034: transform1661
+    100036: transform1662
+    100038: transform1663
+    100040: transform1664
+    100042: transform1665
+    100044: transform1666
+    100046: transform1667
+    100048: transform1668
+    100050: transform1669
+    100052: transform1670
+    100054: transform1671
+    100056: transform1682
+    100058: transform1683
+    100060: transform1684
+    100062: transform1685
+    100064: transform1686
+    100066: transform1687
+    100068: transform1688
+    100070: transform1689
+    100072: transform1690
+    100074: transform1691
+    100076: transform1692
+    100078: transform1693
+    100080: transform1694
+    100082: transform1695
+    100084: transform1696
+    100086: transform1697
+    100088: transform1698
+    100090: transform1699
+    100092: transform1700
+    100094: transform1701
+    100096: transform1702
+    100098: transform1703
+    100100: transform1704
+    100102: transform1705
+    100104: transform1706
+    100106: UCX_CurvedFence_10
+    100108: UCX_CurvedFence_11
+    100110: UCX_CurvedFence_12
+    100112: UCX_CurvedFence_13
+    100114: UCX_CurvedFence_14
+    100116: UCX_CurvedFence_15
+    100118: UCX_CurvedFence_16
+    100120: UCX_CurvedFence_17
+    100122: UCX_CurvedFence_18
+    100124: UCX_CurvedFence_19
+    100126: UCX_CurvedFence_20
+    100128: UCX_CurvedFence_21
+    100130: UCX_CurvedFence_22
+    100132: UCX_CurvedFence_23
+    100134: UCX_CurvedFence_24
+    100136: UCX_CurvedFence_25
+    100138: UCX_CurvedFence_26
+    100140: UCX_StraightFence_10
+    100142: UCX_StraightFence_3
+    100144: UCX_StraightFence_4
+    100146: UCX_StraightFence_5
+    100148: UCX_StraightFence_6
+    100150: UCX_StraightFence_7
+    100152: UCX_StraightFence_8
+    100154: UCX_StraightFence_9
+    400000: //RootNode
+    400002: polySurface1438
+    400004: polySurface1439
+    400006: polySurface1441
+    400008: polySurface1443
+    400010: polySurface1444
+    400012: polySurface1445
+    400014: polySurface1446
+    400016: polySurface1458
+    400018: polySurface1460
+    400020: polySurface1465
+    400022: polySurface1466
+    400024: polySurface1467
+    400026: polySurface1468
+    400028: polySurface1469
+    400030: transform1659
+    400032: transform1660
+    400034: transform1661
+    400036: transform1662
+    400038: transform1663
+    400040: transform1664
+    400042: transform1665
+    400044: transform1666
+    400046: transform1667
+    400048: transform1668
+    400050: transform1669
+    400052: transform1670
+    400054: transform1671
+    400056: transform1682
+    400058: transform1683
+    400060: transform1684
+    400062: transform1685
+    400064: transform1686
+    400066: transform1687
+    400068: transform1688
+    400070: transform1689
+    400072: transform1690
+    400074: transform1691
+    400076: transform1692
+    400078: transform1693
+    400080: transform1694
+    400082: transform1695
+    400084: transform1696
+    400086: transform1697
+    400088: transform1698
+    400090: transform1699
+    400092: transform1700
+    400094: transform1701
+    400096: transform1702
+    400098: transform1703
+    400100: transform1704
+    400102: transform1705
+    400104: transform1706
+    400106: UCX_CurvedFence_10
+    400108: UCX_CurvedFence_11
+    400110: UCX_CurvedFence_12
+    400112: UCX_CurvedFence_13
+    400114: UCX_CurvedFence_14
+    400116: UCX_CurvedFence_15
+    400118: UCX_CurvedFence_16
+    400120: UCX_CurvedFence_17
+    400122: UCX_CurvedFence_18
+    400124: UCX_CurvedFence_19
+    400126: UCX_CurvedFence_20
+    400128: UCX_CurvedFence_21
+    400130: UCX_CurvedFence_22
+    400132: UCX_CurvedFence_23
+    400134: UCX_CurvedFence_24
+    400136: UCX_CurvedFence_25
+    400138: UCX_CurvedFence_26
+    400140: UCX_StraightFence_10
+    400142: UCX_StraightFence_3
+    400144: UCX_StraightFence_4
+    400146: UCX_StraightFence_5
+    400148: UCX_StraightFence_6
+    400150: UCX_StraightFence_7
+    400152: UCX_StraightFence_8
+    400154: UCX_StraightFence_9
+    2300000: UCX_CurvedFence_26
+    3300000: UCX_CurvedFence_26
+    4300000: UCX_CurvedFence_26
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

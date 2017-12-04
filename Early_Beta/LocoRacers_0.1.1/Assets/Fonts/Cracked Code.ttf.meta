@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3d9ecf044fc986340946b5bc7f6a7b32
+timeCreated: 1506969199
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cracked Code
+  fontNames:
+  - Cracked Code
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

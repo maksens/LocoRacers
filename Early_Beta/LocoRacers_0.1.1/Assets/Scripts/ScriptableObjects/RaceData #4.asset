@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3bc23eb506c31146a9cc7d9100fc47d, type: 3}
+  m_Name: 'RaceData #4'
+  m_EditorClassIdentifier: 
+  RecordTime: 30
+  FirstPositionTimer: 0
+  SecondPositionTimer: 0
+  ThirdPositionTimer: 0
+  FourthPositionTimer: 0
+  FirstPosition: 
+  SecondPosition: 
+  ThirdPosition: 
+  FourthPosition: 
